@@ -1,16 +1,43 @@
-## Hi there 👋
+# ⚡ Welcome to Ricky Brut's Forge! ⚡
 
-<!--
-**Ricky-Bruts/Ricky-Bruts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Ricky-Bruts/ricky-brut-contracts/refs/heads/main/assets/brut-image.jpg" width="200" alt="BRUT Logo">
+</p>
 
-Here are some ideas to get you started:
+### 🛠️ Ecosystem Architect & Blockchain Developer
+I am the creator of **Ricky Brut ($BRUT)**, a revolutionary **Quantum Mining Protocol** on the BNB Smart Chain. My focus is on building transparent, community-driven DeFi ecosystems with sustainable tokenomics.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 💎 Current Focus: $BRUT Ecosystem
+*   **[ricky-brut-contracts](https://github.com)**: The core engine of the Quantum Mining Protocol.
+*   **Quantum Mining Hub**: Developing the next-gen web dashboard for $BRUT extraction.
+*   **DeFi Innovation**: Experimenting with halving algorithms and smart deflationary taxes.
+
+---
+
+## 🚀 Tech Stack & Tools
+<p align="left">
+  <img src="https://raw.githubusercontent.com/Ricky-Bruts/ricky-brut-contracts/refs/heads/main/assets/brut-image.jpg" width="200" />
+  <img src="https://img.shields.io" />
+  <img src="https://img.shields.io" />
+  <img src="https://img.shields.io" />
+  <img src="https://img.shields.io" />
+</p>
+
+---
+
+## 📡 Connect with the Ecosystem
+*   **Contract:** `0x13597C6F66819a9daAB28ab97097ea5E5605561D`
+*   **X (Twitter):** [Follow the Progress](https://x.com)
+*   **Discord:** [Join the Community](https://discord.com/invite/8TGxQu3rQk)
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app" alt="Ricky's Stats" />
+</p>
+
+<p align="center">
+  "Mining the future, one block at a time." 🛠️💎
+</p>
