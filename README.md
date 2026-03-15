@@ -1,7 +1,7 @@
 # ⚡ Welcome to Ricky Brut's Forge! ⚡
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Ricky-Bruts/ricky-brut-contracts/refs/heads/main/assets/brut-image.jpg" width="200" alt="BRUT Logo">
+  <img src="https://raw.githubusercontent.com/Ricky-Bruts/ricky-brut-contracts/refs/heads/main/assets/logo-256.png" width="200" alt="BRUT Logo">
 </p>
 
 ### 🛠️ Ecosystem Architect & Blockchain Developer
@@ -10,7 +10,7 @@ I am the creator of **Ricky Brut ($BRUT)**, a revolutionary **Quantum Mining Pro
 ---
 
 ## 💎 Current Focus: $BRUT Ecosystem
-*   **[ricky-brut-contracts](https://github.com)**: The core engine of the Quantum Mining Protocol.
+*   **[ricky-brut-contracts](https://github.com/Ricky-Bruts/ricky-brut-contracts)**: The core engine of the Quantum Mining Protocol.
 *   **Quantum Mining Hub**: Developing the next-gen web dashboard for $BRUT extraction.
 *   **DeFi Innovation**: Experimenting with halving algorithms and smart deflationary taxes.
 
@@ -19,10 +19,9 @@ I am the creator of **Ricky Brut ($BRUT)**, a revolutionary **Quantum Mining Pro
 ## 🚀 Tech Stack & Tools
 <p align="left">
   <img src="https://raw.githubusercontent.com/Ricky-Bruts/ricky-brut-contracts/refs/heads/main/assets/brut-image.jpg" width="200" />
-  <img src="https://img.shields.io" />
-  <img src="https://img.shields.io" />
-  <img src="https://img.shields.io" />
-  <img src="https://img.shields.io" />
+  <img src="https://raw.githubusercontent.com/Ricky-Bruts/Ricky-Bruts/refs/heads/main/assets/RB2.jpg" width="200" />
+  <img src="https://raw.githubusercontent.com/Ricky-Bruts/Ricky-Bruts/refs/heads/main/assets/RB3.jpg" width="200" />
+  <img src="https://raw.githubusercontent.com/Ricky-Bruts/Ricky-Bruts/refs/heads/main/assets/RB4.jpg" width="200" />
 </p>
 
 ---
@@ -35,7 +34,7 @@ I am the creator of **Ricky Brut ($BRUT)**, a revolutionary **Quantum Mining Pro
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app" alt="Ricky's Stats" />
+  <img src="https://raw.githubusercontent.com/Ricky-Bruts/ricky-brut-contracts/refs/heads/main/assets/logo-256.png" alt="Ricky's Stats" />
 </p>
 
 <p align="center">
