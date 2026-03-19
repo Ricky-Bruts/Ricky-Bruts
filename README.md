@@ -27,7 +27,7 @@ I am the creator of **Ricky Brut ($BRUT)**, a revolutionary **Quantum Mining Pro
 ---
 
 ## 📡 Connect with the Ecosystem
-*   **Contract:** `0x13597C6F66819a9daAB28ab97097ea5E5605561D`
+*   **Contract:** `0x0B942B00DE0467358E0E9b4BFb5A8CE85cab42F8`
 *   **X (Twitter):** [Follow the Progress](https://x.com/Ricky_BRUT)
 *   **App:** [Join the Miner](https://minerbrut.xyz)
 
